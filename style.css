@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    border: 0;
+
+}
+header{
+    background-color: #F94D11;
+    color: white;
+    font-size: 10px;
+    display: flex;
+    width: 100vw;
+    height: 56px;
+}
+.datas{
+ position: absolute;
+ right: 10px;
+}
